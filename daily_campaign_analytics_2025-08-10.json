@@ -1,0 +1,9 @@
+{
+  "2112-6c37-4a8c-b185-2dec375f1b80": {
+    "error": "400 Client Error: Bad Request for url: https://api.instantly.ai/api/v2/campaigns/analytics/daily?campaign_id=2112-6c37-4a8c-b185-2dec375f1b80&start_date=2025-08-10&end_date=2025-08-10"
+  },
+  "084b5665-3909-4f22-a2e4-e81527b5131d": null,
+  "06c8d903-15bd-4226-9d93-c57795d22950": null,
+  "04b1143f-5f33-4d32-8e1e-ff4b2debe3c5": null,
+  "02aa4766-09c0-4fee-ae13-9ca92d891c2b": null
+}
